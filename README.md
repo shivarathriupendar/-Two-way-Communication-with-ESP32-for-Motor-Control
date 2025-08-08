@@ -14,3 +14,6 @@ Jumper Wires
 Breadboard (optional)
 
 External 5V Power Supply (for servo, if needed)
+
+# Project Focus
+To design and develop a WiFi-based embedded system that highlights reliable peer-to-peer communication, real-time sensor data acquisition, and actuator control using ESP32 microcontrollers. The project serves as a foundational model for IoT, automation, and wireless control applications.
